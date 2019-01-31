@@ -1,5 +1,5 @@
 ## some header
 some text
 
-<div> div </div>
+<div style="background-color: red;"> div </div>
 <span> span </span>
